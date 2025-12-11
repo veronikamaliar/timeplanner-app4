@@ -22,7 +22,7 @@ Time Planner
 ### Інструкції
 \`\`\`bash
 # Клонування репозиторію
-git clone [URL репозиторію]
+git clone [\[URL репозиторію\]](https://github.com/veronikamaliar/timeplanner-app4.git)
 
 # Встановлення залежностей
 npm install
